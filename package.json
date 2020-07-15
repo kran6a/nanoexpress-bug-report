@@ -1,0 +1,17 @@
+{
+  "name": "nanoexpressbug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nanoexpress/middlewares": "github:nanoexpress/middlewares",
+    "nanoexpress-pro": "^2.2.1"
+  }
+}
